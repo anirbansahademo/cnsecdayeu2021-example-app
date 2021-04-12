@@ -1,0 +1,4 @@
+tekton-build-pipeline:
+  application_git_repo: "https://github.com/anirbansahademo/cnsecdayeu2021-example-app.git"
+  image_tag: "0.0.2"
+  app_name: "example-app"
